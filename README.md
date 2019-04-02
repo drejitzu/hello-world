@@ -1,2 +1,4 @@
 # hello-world
-writing code @AdL
+writing code @Adl
+Python+,Java coffe scripts r good . 
+ESPECIALLY good for apps on iPhone rfid sats n animals 
